@@ -43,7 +43,7 @@ O projeto foi pensado como uma solução aplicável ao mercado, com estrutura vo
 ## Outros projetos
 
 ### Decodificador de Texto
-Aplicação web desenvolvida para codificar e decodificar mensagens, com foco em lógica, interface e usabilidade.
+Aplicação web desenvolvida para codificar e decodificar CSR e conversão de certificados , com foco em lógica, interface e usabilidade.
 
 🔗 https://github.com/joaoferdev/decodificador-
 
