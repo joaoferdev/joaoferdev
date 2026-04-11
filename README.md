@@ -1,6 +1,6 @@
 # João Pedro Fernandes
 
-Desenvolvedor Full Stack em formação, com foco em desenvolvimento web, APIs, interfaces modernas e construção de produtos com potencial real de mercado.
+Desenvolvedor Full Stack , com foco em desenvolvimento web, APIs, interfaces modernas e construção de produtos com potencial real de mercado.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e venho evoluindo por meio de projetos práticos, buscando unir boa experiência do usuário, organização técnica e soluções que resolvam problemas reais.
 
